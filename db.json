@@ -1,63 +1,61 @@
 {
-  "products": [
-    {
-      "id": 1
-    },
-    {
-      "id": 2
-    },
-    {
-      "id": 3
-    }
-  ],
-  "productTypes": [
-    {
-        "id": 1,
-        "productId": 1,
-        "name": "adidas Nite Jogger",
-        "imgUrl": "//images.asos-media.com/products/belye-krossovki-adidas-originals-nite-jogger/13176438-1-white?$n_480w$&wid=476&fit=constrain",
-        "description": "Гладкий кожаный верх, матовый эффект",
-        "brandId": 1,
-        "colorId": 1,
-        "sex": "m",
-        "price": "9800 Р",
-        "categoryId": 1
-    },
-    {
-        "id": 2,
-        "productId": 2,
-        "name": "Nike Blazer Mid '77",
-        "imgUrl": "//images.asos-media.com/products/cherno-belye-krossovki-nike-blazer-mid-77/14735083-1-whiteblack?$n_480w$&wid=476&fit=constrain",
-        "description": "Гладкий кожаный верх, матовый эффект",
-        "brandId": 2,
-        "colorId": 2,
-        "sex": "m",
-        "price": "8990 Р",
-        "categoryId": 1
-    },
-    {
-        "id": 3,
-        "productId": 2,
-        "name": "Nike Blazer Mid '77",
-        "imgUrl": "//images.asos-media.com/products/sinie-zamshevye-krossovki-nike-blazer-mid-77/13338853-1-blue?$n_480w$&wid=476&fit=constrain",
-        "description": "Гладкий кожаный верх, матовый эффект",
-        "brandId": 2,
-        "colorId": 3,
-        "sex": "m",
-        "price": "8990 Р",
-        "categoryId": 1
-    },
-    {
-        "typeId": 4,
-        "productId": 3,
-        "name": "Nike Blazer Mid '77",
-        "imgUrl": "//images.asos-media.com/products/cherno-belye-krossovki-nike-blazer-mid-77/13756123-1-whiteblack?$n_480w$&wid=476&fit=constrain",
-        "description": "Гладкий кожаный верх, матовый эффект",
-        "brandId": 2,
-        "colorId": 2,
-        "sex": "f",
-        "price": "8990 Р",
-        "categoryId": 1
-    }
-  ]
+	"products": [{
+			"id": 1
+		},
+		{
+			"id": 2
+		},
+		{
+			"id": 3
+		}
+	],
+	"productTypes": [{
+			"id": 1,
+			"productId": 1,
+			"name": "adidas Nite Jogger",
+			"imgUrl": "//images.asos-media.com/products/belye-krossovki-adidas-originals-nite-jogger/13176438-1-white?$n_480w$&wid=476&fit=constrain",
+			"description": "Гладкий кожаный верх, матовый эффект",
+			"brandId": 1,
+			"colorId": 1,
+			"sex": "m",
+			"price": "9800 Р",
+			"categoryId": 1
+		},
+		{
+			"id": 2,
+			"productId": 2,
+			"name": "Nike Blazer Mid '77",
+			"imgUrl": "//images.asos-media.com/products/cherno-belye-krossovki-nike-blazer-mid-77/14735083-1-whiteblack?$n_480w$&wid=476&fit=constrain",
+			"description": "Гладкий кожаный верх, матовый эффект",
+			"brandId": 2,
+			"colorId": 2,
+			"sex": "m",
+			"price": "8990 Р",
+			"categoryId": 1
+		},
+		{
+			"id": 3,
+			"productId": 2,
+			"name": "Nike Blazer Mid '77",
+			"imgUrl": "//images.asos-media.com/products/sinie-zamshevye-krossovki-nike-blazer-mid-77/13338853-1-blue?$n_480w$&wid=476&fit=constrain",
+			"description": "Гладкий кожаный верх, матовый эффект",
+			"brandId": 2,
+			"colorId": 3,
+			"sex": "m",
+			"price": "8990 Р",
+			"categoryId": 1
+		},
+		{
+			"typeId": 4,
+			"productId": 3,
+			"name": "Nike Blazer Mid '77",
+			"imgUrl": "//images.asos-media.com/products/cherno-belye-krossovki-nike-blazer-mid-77/13756123-1-whiteblack?$n_480w$&wid=476&fit=constrain",
+			"description": "Гладкий кожаный верх, матовый эффект",
+			"brandId": 2,
+			"colorId": 2,
+			"sex": "f",
+			"price": "8990 Р",
+			"categoryId": 1
+		}
+	]
 }
