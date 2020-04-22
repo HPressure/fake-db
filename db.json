@@ -1,18 +1,17 @@
 {
   "products": [
-  {
-    "id": "1",
-  },
-  {
-    "id": "2",
-  },
-  {
-    "id": "3",
-  }
-]
+    {
+      "id": "1",
+    },
+    {
+      "id": "2",
+    },
+    {
+      "id": "3",
+    }
+  ]
   "productTypes":[
-
-      {
+    {
         "id": "1",
         "productId": "1",
         "name": "adidas Nite Jogger",
@@ -23,7 +22,7 @@
         "sex": "m",
         "price": "9800 Р",
         "categoryId": 1
-      },
+    },
     {
         "id": "2",
         "productId": "2",
@@ -35,8 +34,8 @@
         "sex": "m",
         "price": "8990 Р",
         "categoryId": 1
-      },
- {
+    },
+    {
         "id": "3",
         "productId": "2",
         "name": "Nike Blazer Mid '77",
@@ -47,8 +46,8 @@
         "sex": "m",
         "price": "8990 Р",
         "categoryId": 1
-      },
- {
+    },
+    {
         "typeId": "4",
         "productId": "3",
         "name": "Nike Blazer Mid '77",
@@ -59,6 +58,6 @@
         "sex": "f",
         "price": "8990 Р",
         "categoryId": 1
-      }
+    }
   ]
 }
